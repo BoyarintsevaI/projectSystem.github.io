@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Юрист" as P {
+ 1С
+Согласование Договора (Пустой шаблон договора, Во время заключения сделки)
+}
+hide circle
+@enduml
