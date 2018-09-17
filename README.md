@@ -3,6 +3,8 @@
 
 ## Лабораторная 1
 [Задание 1 - Модель IDEF0](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/1.png)
+[Задание 2 - Код диаграммы](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/Code%20PlantUML)
+[Задание 2 - Диаграмма]()
 
 ## Лабораторная 2
 
