@@ -2,6 +2,7 @@
 # студент группы ИДБ-15-14 Бояринцева И.Д.
 
 ## Лабораторная 1
+[Задание 1 - Модель IDEF0](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/1.png)
 
 ## Лабораторная 2
 
