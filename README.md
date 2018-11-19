@@ -9,7 +9,7 @@
 [Задание 3 - Диаграмма](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/2.png)  
 
 ## Лабораторная 2
-
+[Задание 1 - Диаграмма PDC](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/PDC.PNG)  
 ## Лабораторная 3
 
 ## Лабораторная 4
