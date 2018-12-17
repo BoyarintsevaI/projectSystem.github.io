@@ -31,7 +31,9 @@
  
   ![](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/Idef0%20все%20блоки.PNG)
   
+  IDEF0 декомпозиция процесса определения требований к проекту:
   
+   ![](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/Декомпозиция%20А1.PNG) 
 
 ## Лабораторная 5
 [Диаграммы для курсового проекта. Тема: Расчёт стоимости инженерных работ в сфере телекоммуникаций](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/kursach.rsf)  
