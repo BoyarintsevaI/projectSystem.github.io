@@ -38,6 +38,10 @@
    IDEF0 декомпозиция процесса расчёта стоимости инженерных работ:
    
    ![](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/Декомпозиция%20А2.PNG) 
+   
+   IDEF0 декомпозиция процесса вывода о готовности вхождения в проект:
+   
+   ![](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/Ltrjvgjpbwbz%20F3.PNG) 
 
 ## Лабораторная 5
 [Диаграммы для курсового проекта. Тема: Расчёт стоимости инженерных работ в сфере телекоммуникаций](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/kursach.rsf)  
