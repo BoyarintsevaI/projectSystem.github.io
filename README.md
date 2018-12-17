@@ -44,7 +44,28 @@
    ![](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/Ltrjvgjpbwbz%20F3.PNG) 
 
 ## Лабораторная 5
-[Диаграммы для курсового проекта. Тема: Расчёт стоимости инженерных работ в сфере телекоммуникаций](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/kursach.rsf)  
+
+- Определение конфигурации технических средств: ноутбук для разработки и ноутбук на рабочем месте менеджера проекта для проверки системы.
+
+- Определение конфигурации программных средств: Microsoft Visual Studio -  интегрированная среда разработки программного обеспечения.
+
+- Определение допустимых видов хранилищ и их размещения: реалиционная база данных
+
+- Декомпозиция в диаграмму потоков данных DFD была произведена из блоков: А21, А22, А23.
+
+DFD для блока А21:
+
+![](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/ДФД%20для%20проверки%20аккаунта.PNG)
+
+DFD для блока А22:
+
+![](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/ДФД%20для%20ввода%20данных.PNG)
+
+DFD для блока А23:
+
+![](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/ДФД%20для%20расчёта.PNG)
+
+DFD 
 ## Лабораторная 6
 
 ## Лабораторная 7
