@@ -21,9 +21,10 @@
 
 -Целью моделирования является определение автоматизируемых процессов и наглядное представление взаимодействия блоков разрабатываемой автоматизированной системы расчета стоимости инженерных работ.
  
+ 
  IDEF0 Контекстная: 
  
- ![] (https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/Контексная%20диаграмма.PNG)
+ ![](https://github.com/BoyarintsevaI/projectSystem.github.io/blob/master/Контексная%20диаграмма.PNG)
  
  
 
